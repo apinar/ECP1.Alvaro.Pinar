@@ -7,8 +7,7 @@ public class Test {
 	int numero5 = 5;
 	
 	public int suma (int a, int b){
-		
-		return 0;
+		return a+b;
 	}
 
 }
